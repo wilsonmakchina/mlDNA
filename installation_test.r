@@ -1,6 +1,0 @@
-install.packages("mlDNA")
-library(mlDNA)
-source("http://bioconductor.org/biocLite.R")
-options(BioC_mirror="http://mirrors.ustc.edu.cn/bioc/")
-biocLite("GeneSelector")
-biocLite("qvalue")
